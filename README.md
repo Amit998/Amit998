@@ -19,4 +19,4 @@ ___
 
 # **About Me**
 
-### I am a college student And i love learing new stuffs. I have worked on Web Development Front-End And Back-End.And i also worked on App development.Currently learning flutter .
+### I am a college student And i love learing new stuffs. I have worked on Web Development FrontEnd And BackEnd.And i also worked on App development.Currently learning flutter .
