@@ -46,7 +46,13 @@ ___
  
  <img src="https://github.githubassets.com/images/modules/open_graph/github-mark.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
  
- <img src="https://vmssoftware.com/images/intro/product/php.svg" alt="Php" height="40" style="vertical-align:top; margin:4px">
+
+ 
+  <img src="https://dart.dev/assets/shared/dart-logo-for-shares.png?2" alt="dart" height="40" style="vertical-align:top; margin:4px">
+ 
+ <img src="https://www.paceit.co.uk/wp-content/uploads/2019/08/node-js-logo.jpg" alt="node" height="40" style="vertical-align:top; margin:4px">
+ 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" height="40" style="vertical-align:top; margin:4px">
  
  
  
