@@ -39,4 +39,16 @@ ___
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+ 
+ <img src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
+ 
+ <img src="https://camo.githubusercontent.com/c04e16c05de80dadbdc990884672fc941fdcbbfbb02b31dd48c248d010861426/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f74665f6c6f676f5f736f6369616c2e706e67" alt="Tensorflow" height="40" style="vertical-align:top; margin:4px">
+ 
+ <img src="https://github.githubassets.com/images/modules/open_graph/github-mark.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
+ 
+ <img src="https://vmssoftware.com/images/intro/product/php.svg" alt="Php" height="40" style="vertical-align:top; margin:4px">
+ 
+ 
+ 
+ 
 </p>
