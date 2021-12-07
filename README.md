@@ -4,7 +4,7 @@ ___
 
 
 
-> 🔭 I’m currently Student
+> 🔭 I’m currently DevOps Engineer 
 
 > 🌱 I’m currently learning Flutter
 
